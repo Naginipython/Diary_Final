@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Svelte
+.idea
+.DS_Store
+.vscode/*
+!.vscode/launch.json
+node_modules
+.eslintcache
